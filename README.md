@@ -1,5 +1,5 @@
 # Image-Search-Engine
-In this app we can search for any type of images such as plants,animals and things.
+In this app we can search for any type of images such as plants,animals and things with a help of SplashAPI
 
 1.HomePage
 ![imagesearch](https://github.com/maha-moni123/ImageSearchEngine/assets/135324405/0966e179-dd54-4831-8dce-4ef3c0497cdf)
